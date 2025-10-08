@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Alex Johnson
+title: Jun Gu
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Jun
+last_name: Gu
 
 # Pronouns (optional)
 pronouns: he/him
@@ -23,80 +23,63 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Postdoctoral Research Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: USTC
+#    url: https://ai.meta.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:kyuinkoo@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
+#  - icon: brands/x
+#    url: https://x.com/LinjunGu99
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/1JunGu
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/1jungu/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?user=s65qH50AAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0001-6129-3191
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Global Storm-Resolving Models
+  - Predictability of Extreme Events
+  - Climate Attributions
+  - Cloud Microphysics
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+  - area: PhD Atmospheric Science
+    institution: University of Science and Technology of China
+    date_start: 2016-09-01
+    date_end: 2025-06-18
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+      Thesis on _Global Storm Resolving Models_. Supervised by Prof. Chun Zhao. Published 4 papers in Science Bulletin, ERL and GRL.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    date_start: 2013-09-01
-    date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
+      url: 'https://imgbed.kyuinkoo.top/Thesis.pdf'
 
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    date_start: 2009-09-01
-    date_end: 2013-05-31
+  - area: BS Atmospheric Science
+    institution: Univerisity of Science and Technology of China
+    date_start: 2016-08-18
+    date_end: 2020-06-18
     summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
+      GPA: 3.42/4.3
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
-    company_logo: ''
-    date_start: 2020-01-01
-    date_end: ''
-    summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
-    company_logo: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+#  - position: Postdoctoral Research Scientist
+#    company_name: Meta AI
+#    company_url: 'https://ai.meta.com/'
+#    company_logo: ''
+#    date_start: 2020-01-01
+#    date_end: ''
+#    summary: |2-
+#      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -133,37 +116,37 @@ skills:
         icon: book-open
 
 languages:
+  - name: Chinese
+    percent: 90
   - name: English
-    percent: 100
-  - name: Spanish
-    percent: 50
+    percent: 70
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
-    icon: hero/trophy
-    summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
-    summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
-    summary: |
-      Recognized for contributions to scaling laws in deep learning.
+#  - title: Best Paper Award
+#    url: https://neurips.cc/
+#    date: '2022-12-01'
+#    awarder: NeurIPS
+#    icon: hero/trophy
+#    summary: |
+#      Awarded for groundbreaking work on efficient training of large models.
+#  - title: AI Innovation Grant
+#    url: https://www.nsf.gov/
+#    date: '2021-06-15'
+#    awarder: National Science Foundation
+#    icon: hero/currency-dollar
+#    summary: |
+#      $500,000 grant for research in ethical AI development.
+#  - title: Outstanding PhD Thesis
+#    url: https://www.stanford.edu/
+#    date: '2019-06-30'
+#    awarder: Stanford University
+#    icon: hero/academic-cap
+#    summary: |
+#      Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Jun Gu is a Postdoctoral Research Scientist at USTC, where he continues his doctoral work on atmospheric model development. His research has been published in top journals like Science Bulletin and GRL, with over 100 citations. Jun is passionate about pushing the boundaries of atmospheric model in predicting extreme events and climate projection with state-of-the-art computing hardware and softwares. Outside of work, he enjoys swimming, learning math and computer science.
